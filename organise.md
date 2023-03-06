@@ -14,4 +14,13 @@ subtitle: Workshop Organisers and International Committee
 ## Organising Committee
 
 - Eric Dignum, University of Amsterdam
+- Lasse Gerrits, Erasmus University
+- Thomas Chadefaux, Trinity College Dublin
+- Nigel Gilbert, University of Surrey
+- Nicolas Levrat,University of Geneva 
+- Dider Wernli, University of Geneva
+- Michael Ambühl, ETH Zurich
+- Roland Bouffanais, University of Ottowa
+- Derek Groen, Brunel University
+
 
