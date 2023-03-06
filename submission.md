@@ -6,7 +6,7 @@ subtitle: Submission details
 
 ## Important Dates
 
-The workshop follows the same timeline as the main [iccs conference dates](see https://www.iccs-meeting.org/iccs2023/important-dates/) unless specified below.
+The workshop follows the same timeline as the main [iccs conference dates](https://www.iccs-meeting.org/iccs2023/important-dates/) unless specified below.
 
 - Paper submission: **10 March 2023 (final extension)**
 - Notification to authors: 3 April 2023
