@@ -8,13 +8,13 @@ subtitle: Submission details
 
 The workshop follows the same timeline as the main [iccs conference dates](see https://www.iccs-meeting.org/iccs2023/important-dates/) unless specified below.
 
-Paper submission: **10 March 2023 (final extension)**
-Notification to authors: 3 April 2023
-Camera-ready papers: 21 April 2023
-Author registration: 3 – 21 April 2023
-Non-author registration (in-person): 3 April – 2 June 2023
-Non-author registration (online): 3 April – 21 June 2023
-Conference sessions: 3-5 July 2023
+- Paper submission: **10 March 2023 (final extension)**
+- Notification to authors: 3 April 2023
+- Camera-ready papers: 21 April 2023
+- Author registration: 3 – 21 April 2023
+- Non-author registration (in-person): 3 April – 2 June 2023
+- Non-author registration (online): 3 April – 21 June 2023
+- Conference sessions: 3-5 July 2023
 
 ## Submission
 
