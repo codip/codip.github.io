@@ -15,6 +15,7 @@ subtitle: Workshop Organisers and International Committee
 
 - Eric Dignum, University of Amsterdam
 - Lasse Gerrits, Erasmus University
+- Vittorio Nespeca, University of Amsterdam
 - Thomas Chadefaux, Trinity College Dublin
 - Nigel Gilbert, University of Surrey
 - Nicolas Levrat,University of Geneva 
