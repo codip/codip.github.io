@@ -16,6 +16,6 @@ The workshop follows the same timeline as the main [iccs conference dates](https
 
 ## Submission
 
-Submission to the workshop is done via the ICCS easychair you can submit [**here**]https://easychair.org/conferences/?conf=iccs2024).
+Submission to the workshop is done via the ICCS easychair you can submit [**here**](https://easychair.org/conferences/?conf=iccs2024).
 
 We only accept full, poster and abstract submissions which is inline with the main conference. 
