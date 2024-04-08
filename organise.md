@@ -7,7 +7,7 @@ subtitle: Workshop Organisers and International Committee
 ## Workshop Chairs 
 
 - **Michael Lees**, University of Amsterdam, [mhlees.com](https://mhlees.com)
-- **Bastian Chopard**, University of Geneva, [cui.unige.ch/~chopard/](https://cui.unige.ch/~chopard/)
+- **Roland Bouffanais**, University of Geneva, [University of Geneva](https://applied-complexity.org/)
 - **Brian Castellani**, University of Durham, [www.durham.ac.uk/staff/brian-c-castellani](https://www.durham.ac.uk/staff/brian-c-castellani/)
 
 
@@ -18,10 +18,10 @@ subtitle: Workshop Organisers and International Committee
 - Vittorio Nespeca, University of Amsterdam
 - Thomas Chadefaux, Trinity College Dublin
 - Nigel Gilbert, University of Surrey
+- Bastien Chopard, University of Geneva
 - Nicolas Levrat,University of Geneva 
 - Dider Wernli, University of Geneva
-- Michael Ambühl, ETH Zurich
-- Roland Bouffanais, University of Ottowa
+- Jean-Luc Falcone, University of Geneva
 - Derek Groen, Brunel University
 
 
