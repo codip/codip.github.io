@@ -12,12 +12,10 @@ subtitle: Workshop Organisers and International Committee
 
 
 ## Organising Committee
-
+- Vítor Vasconcelos, University of Amsterdam
 - Eric Dignum, University of Amsterdam
-- Lasse Gerrits, Erasmus University
 - Vittorio Nespeca, University of Amsterdam
 - Thomas Chadefaux, Trinity College Dublin
-- Nigel Gilbert, University of Surrey
 - Bastien Chopard, University of Geneva
 - Nicolas Levrat,University of Geneva 
 - Dider Wernli, University of Geneva
