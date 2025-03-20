@@ -16,10 +16,7 @@ subtitle: Workshop Organisers and International Committee
 - Eric Dignum, University of Amsterdam
 - Vittorio Nespeca, University of Amsterdam
 - Thomas Chadefaux, Trinity College Dublin
-- Bastien Chopard, University of Geneva
-- Nicolas Levrat,University of Geneva 
 - Dider Wernli, University of Geneva
-- Jean-Luc Falcone, University of Geneva
 - Derek Groen, Brunel University
 
 
