@@ -9,7 +9,7 @@ subtitle: Submission details
 The workshop follows the same timeline as the main [iccs conference dates](https://www.iccs-meeting.org/iccs2025/important-dates/) unless specified below.
 
 - Abstract submission: **15 April 2025 (final extension)**
-- Notification to authors: 30 April 2024
+- Notification to authors: 30 April 2025
 - Camera-ready papers: N/A (Abstracts only)
 - Author registration: To be announced
 
