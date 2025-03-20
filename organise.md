@@ -19,7 +19,6 @@ subtitle: Workshop Organisers and International Committee
 - Bastien Chopard, University of Geneva
 - Nicolas Levrat,University of Geneva 
 - Dider Wernli, University of Geneva
-- Jean-Luc Falcone, University of Geneva
 - Derek Groen, Brunel University
 
 
