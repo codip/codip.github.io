@@ -18,7 +18,7 @@ subtitle: Workshop Organisers and International Committee
 - Thomas Chadefaux, Trinity College Dublin
 - Bastien Chopard, University of Geneva
 - Nicolas Levrat,University of Geneva 
-- Dider Wernli, University of Geneva
+- Didier Wernli, University of Geneva
 - Derek Groen, Brunel University
 
 
