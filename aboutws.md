@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Scope and Motivation of the Workshop
+subtitle: Scope and Motivation of the Workshopp
 dates: 7-9 July 2025
 ---
 
