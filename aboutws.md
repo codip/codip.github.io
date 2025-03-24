@@ -3,8 +3,7 @@ layout: page
 title: About
 subtitle: Scope and Motivation of the Workshop
 ---
-<p style="text-align: center; font-weight: bold;">7-9 July 2025</p>
-
+<p style="text-align: center; font-weight: bold; margin-top: -5px;">7-9 July 2025</p>
 ## Description 
 
 Uncertainty and Complexity are ubiquitous challenges in modern day politics. Societies and governments worldwide face several impending transitions: infrastructural, geopolitical, environmental, societal, all impacting every aspect of our life and requiring coordination of local, national, and international policy. In many cases governments look to scientists and experts to help reason about these challenges and potentially inform their decisions. Making evidence-based decisions in the face of these urgent complex challenges is an exigent task. 
