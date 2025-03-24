@@ -16,7 +16,7 @@ subtitle: Workshop Organisers and International Committee
 - Eric Dignum, University of Amsterdam
 - Vittorio Nespeca, University of Amsterdam
 - Thomas Chadefaux, Trinity College Dublin
-- Dider Wernli, University of Geneva
+- Didier Wernli, University of Geneva
 - Derek Groen, Brunel University
 
 
